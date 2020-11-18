@@ -5,8 +5,8 @@ This project is the seed files needed to create a GreenIT test application.
 Objective: This test will be a fully functional web application that will display the given data from a csv file, and allow full editing capabilties of the data.
 
 ## Application Version Requirements
-1. Frontend must be in Anguar 7+
-2. Backend must be in PHP 7+
+1. Frontend must be in Anguar 10+
+2. Backend must be in PHP 7.2+
 3. You may include any npm modules needed.
 4. Frontend should be built using npm, backend should be raw php files.
 
@@ -34,11 +34,10 @@ Objective: This test will be a fully functional web application that will displa
 3. The more test case coverage the better.
   
  ## Extras
-1. We use Docker containers, extra points if you set this to run using Docker compose cli.
-2. We use Bootstrap styles, extra points including that in the UI.
-3. Show different parent child communication styles within your application.
-4. Show or describe web server architecture used.
-5. Extra points for making an easy comand line install. 
-6. Make the API fully functional, and write to the CSV file.
+1. We use Docker containers, extra points if you set this to run using Docker/docker-compose cli.
+2. Show different parent child communication styles within your application.
+3. Show or describe web server architecture used.
+4. Extra points for making an easy comand line install. 
+5. Make the API fully functional, and write to the CSV file.
 
 	
