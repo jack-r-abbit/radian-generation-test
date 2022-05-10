@@ -11,7 +11,7 @@ Objective: This test will be a fully functional web application that will displa
 4. Frontend should be built using npm, backend should be raw php files.
 
 ## Backend Requirements
-1. The backend will provide an API for accepting requests from the front end.
+1. The backend will provide data to the frontend through a RESTful API
 2. The API will allow GET requests for getting all records. 
 3. The API will allow POST requests for save, update, and delete.  
 (The implementation for these can be mocked. You do not have to write to the data file.)
@@ -34,10 +34,10 @@ Objective: This test will be a fully functional web application that will displa
 3. The more test case coverage the better.
   
  ## Extras
-1. We use Docker containers, extra points if you set this to run using Docker/docker-compose cli.
+1. Implement a immutable state solution in front end (e.g. Redux, ngrx, Akita)
 2. Show different parent child communication styles within your application.
 3. Show or describe web server architecture used.
-4. Extra points for making an easy comand line install. 
+4. Extra points for making an easy comand line install or a Dockerfile to build the application
 5. Make the API fully functional, and write to the CSV file.
 
 	
